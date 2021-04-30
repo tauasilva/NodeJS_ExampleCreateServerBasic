@@ -2,8 +2,8 @@
 
 ## Para testar basta ter o NODEJS instalado na máquina
 
-## ** WINDOWS **
+### Pelo CMD navegue até a pasta do projeto de e execute o comando 
 
-### Pelo CMD navegue até a pasta do projeto de e execute o comando node index
+node index
 
 ### depois só acessar o endereço localhost:3000/ 
